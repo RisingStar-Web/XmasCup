@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  KingsCup
+
+  Created by Matt Davenport on 25/10/2012.
+  Copyright (c) 2012 Taptastic Apps. All rights reserved.
+*/
+
+"Game over" = "Game over";
+"There are no cards left, the game is over" = "There are no cards left, the game is over";
+"There are no kings left, the game is over" = "There are no kings left, the game is over";
+"New Game" = "New Game";
+
+"Confess the worst present you have ever received" = "Confess the worst present you have ever received";
+"Mime your favourite Christmas film" = "Mime your favourite Christmas film";
+"Transform the person on your left into a Christmas tree using anything you can find in your house" = "Transform the person on your left into a Christmas tree using anything you can find in your house";
+"Eat a mince pie (or any pie you have) without using your hands!" = "Eat a mince pie (or any pie you have) without using your hands!";
+"Pick a person to be Santa's little helper, they must get all your food and drink for the rest of the game" = "Pick a person to be Santa's little helper, they must get all your food and drink for the rest of the game";
+"Draw something Christmas related on a piece of paper with your eyes closed, everyone must guess what it is" = "Draw something Christmas related on a piece of paper with your eyes closed, everyone must guess what it is";
+"Tell everyone a lie and 2 things that are true about yourself, they must guess which is which" = "Tell everyone a lie and 2 things that are true about yourself, they must guess which is which";
+"Everyone must write a list from A-Z, next to each letter they should write a christmas related word. The first to finish wins!" = "Everyone must write a list from A-Z, next to each letter they should write a christmas related word. The first to finish wins!";
+"You must think of a word. Each player in the circle must say a word that rhymes with your word. The first player to repeat a word or fail to come up with one loses and misses a turn" = "You must think of a word. Each player in the circle must say a word that rhymes with your word. The first player to repeat a word or fail to come up with one loses and misses a turn";
+"You must pick a category. Players in your the circle must say an item in your chosen category. The first player to repeat an item or fail to come up with one loses and misses a turn" = "You must pick a category. Players in your the circle must say an item in your chosen category. The first player to repeat an item or fail to come up with one loses and misses a turn";
+"You must make up a rule to put into play until the next Jack is drawn. e.g. every time a person laughs, they miss a turn" = "You must make up a rule to put into play until the next Jack is drawn. e.g. every time a person laughs, they miss a turn";
+"Each player must go around the circle and ask the player next to them a question. If a player repeats a question they lose and miss a turn" = "Each player must go around the circle and ask the player next to them a question. If a player repeats a question they lose and miss a turn";
+
+"Write your favourite Christmas song onto a piece of paper. Fold it and drop it into a cup (don't let anyone else see)" = "Write your favourite Christmas song onto a piece of paper. Fold it and drop it into a cup (don't let anyone else see)";
+"You must pick a song from the cup and sing it as loud as you can" = "You must pick a song from the cup and sing it as loud as you can";

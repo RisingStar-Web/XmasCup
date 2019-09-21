@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  KingsCup
+
+  Created by Matt Davenport on 25/10/2012.
+  Copyright (c) 2012 Taptastic Apps. All rights reserved.
+*/
+
+"Game over" = "游戏结束";
+"There are no cards left, the game is over" = "没有卡片了，游戏结束";
+"There are no kings left, the game is over" = "没有国王了，游戏结束";
+"New Game" = "新游戏";
+
+"You must challenge one other player to a race. Both players must finish their drink, the winner is whoever finishes first" = "你必须挑战其他玩家。最先喝玩的人获胜！";
+"You must choose a player to take a drink" = "你必须挑战其他玩家。最先喝玩的人获胜！";
+"You must take a drink" = "你自己喝一杯";
+"The last player to touch the floor takes a drink" = "最后一个摸地面的人喝！";
+"All male participants must take a drink" = "所有男人喝一杯";
+"All female participants must drink" = "所有女人喝一杯";
+"All players must point upwards, the last player to do so must drink" = "所有人脸面像上，最后一个人喝！";
+"Play a round of I Have Never. Starting with you, take it in turns to say something you have never done and everyone who has done it must drink" = "玩一轮“从没做过”。说一件你从没做过的事，如果有其他人做过了，你就罚酒一杯。";
+"You must think of a word. Each player in the circle must say a word that rhymes with your word. The first player to repeat a word or fail to come up with one takes a drink" = "你想一个字，其他人说出押韵的字，失败的人喝酒。";
+"You must pick a category. Players in your the circle must say an item in your chosen category. The first player to repeat an item or fail to come up with one takes a drink" = "想一个范围，其他人说出此范围的物品，失败的人喝酒。";
+"You must make up a rule to put into play until the next Jack is drawn. e.g. every time a person laughs, they must drink" = "想一个规矩，每个人必须遵守！失败的人喝酒。比如说不许笑，笑的人喝！";
+"Each player must go around the circle and ask the player next to them a question. If a player repeats a question they must take a drink" = "每个人依次绕桌子一周，问下个人一个问题，如果有人问重复的问题，罚酒！";
+"Pour some of your drink into the cup" = "把你的酒倒一些进国王的杯子里";
+"You must drink the contents of the cup!" = "喝吧！喝干国王的杯子！";

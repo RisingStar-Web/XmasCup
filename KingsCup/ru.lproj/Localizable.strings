@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  KingsCup
+
+  Created by Matt Davenport on 25/10/2012.
+  Copyright (c) 2012 Taptastic Apps. All rights reserved.
+*/
+
+"Game over" = "Игра окончена";
+"There are no cards left, the game is over" = "Больше нет карт, игра окончена!";
+"There are no kings left, the game is over" = "Игра окончена!";
+"New Game" = "Новая игра";
+
+"Confess the worst present you have ever received" = "Расскажите о самом худшем подарке из тех, что вы когда-либо получали.";
+"Mime your favourite Christmas film" = "С помощью пантомимы покажите свой любимый новогодний фильм. Другие игроки должны его отгадать.";
+"Transform the person on your left into a Christmas tree using anything you can find in your house" = "Нарядите, словно ёлку, игрока, сидящего справа. Можно использовать все, что найдете дома.";
+"Eat a mince pie (or any pie you have) without using your hands!" = "Без помощи рук съеште торт, пирог или любой другой десерт, что есть в доме!";
+"Pick a person to be Santa's little helper, they must get all your food and drink for the rest of the game" = "Игрок слева от вас становится помощником Санты. До конца игры этот человек должен разливать напитки и приносить еду остальным игрокам";
+"Draw something Christmas related on a piece of paper with your eyes closed, everyone must guess what it is" = "С закрытыми глазами нарисуйте что-нибудь, связанное с новым годом. Другие игроки должны отгадать, что это!";
+"Tell everyone a lie and 2 things that are true about yourself, they must guess which is which" = "Расскажите о себе два правдивых и один ложный факт. Игроки должны определить ложь.";
+"Everyone must write a list from A-Z, next to each letter they should write a christmas related word. The first to finish wins!" = "Все игроки должны взять по листу бумаги и написать в столбик буквы алфавита от А до Я. Затем рядом с каждой буквой нужно написать связанное с праздником слово, начинающееся с этой буквы. Тот, кто закончит первым - победитель!";
+"You must think of a word. Each player in the circle must say a word that rhymes with your word. The first player to repeat a word or fail to come up with one loses and misses a turn" = "Придумайте и скажите любое слово, связанное с Новым годом. Все игроки должны тут же придумать и сказать рифму к этому слову. Последний - проигрывает.";
+"You must pick a category. Players in your the circle must say an item in your chosen category. The first player to repeat an item or fail to come up with one loses and misses a turn" = "Задайте любую тему. Другие игроки по кругу должны называть слова, относящиеся к данной теме (например, вы говорите 'новый год', а игроки продолжают: 'елка','снег','зима' и т.д.). Первый, кто повторит чужое слово или замешкается - проиграл.";
+"You must make up a rule to put into play until the next Jack is drawn. e.g. every time a person laughs, they miss a turn" = "Придумайте правило, которому все должны следовать в течении 10 минут. Например, правило - 'тот кто засмеется - пропускает ход'.";
+"Each player must go around the circle and ask the player next to them a question. If a player repeats a question they lose and miss a turn" = "Все по кругу быстро называют новогодние фильмы. Первый кто замешкается или повторится - проиграл.";
+
+"Write your favourite Christmas song onto a piece of paper. Fold it and drop it into a cup (don't let anyone else see)" = "Напишите вашу любимую новогоднюю песню на кусочке бумаги. Сверните бумагу, чтобы никто не видел, что там написано и отложите ее в оговоренную общую 'кучку'.";
+"You must pick a song from the cup and sing it as loud as you can" = "Выберите песню из общей кучки бумажек и спойте ее всем на радость!";

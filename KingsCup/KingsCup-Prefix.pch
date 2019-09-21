@@ -1,0 +1,30 @@
+//
+// Prefix header for all source files of the 'KingsCup' target in the 'KingsCup' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+	#import <QuartzCore/QuartzCore.h>
+    #import "iRate.h"
+	#import "UIImage+imageNamedExtension.h"
+
+	#define rgb(r, g, b)			[UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:1]
+	#define degreesToRadians(x)		(M_PI * (x) / 180.0)
+	#define iPad					(UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+
+	#define DEFINE_SHARED_INSTANCE_USING_BLOCK(block)   \
+	static dispatch_once_t pred = 0;                    \
+	__strong static id _sharedObject = nil;             \
+	dispatch_once(&pred, ^{                             \
+	_sharedObject = block();                            \
+	});                                                 \
+	return _sharedObject;
+
+#endif

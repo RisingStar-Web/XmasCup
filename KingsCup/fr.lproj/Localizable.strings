@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  KingsCup
+
+  Created by Matt Davenport on 25/10/2012.
+  Copyright (c) 2012 Taptastic Apps. All rights reserved.
+*/
+
+"Game over" = "Jeu est fini";
+"There are no cards left, the game is over" = "Il n’y a pas plus de cartes, le jeu est fini";
+"There are no kings left, the game is over" = "Il n’y a pas plus de «Rois», le jeu est fini ";
+"New Game" = "Nouveau jeu";
+
+"You must challenge one other player to a race. Both players must finish their drink, the winner is whoever finishes first" = "Faites un appel à un des participants. Commencez à boire vos verres dans le même temps.";
+"You must choose a player to take a drink" = "Choisissez ce qui va boire.";
+"You must take a drink" = "Fais cul sec.";
+"The last player to touch the floor takes a drink" = "Le dernier qui touche le sol doit boire son verre.";
+"All male participants must take a drink" = "Tous les mecs doivent boire.";
+"All female participants must drink" = "Toutes les meufs doivent boire.";
+"All players must point upwards, the last player to do so must drink" = "Tous vont lever le doigt. Le dernier qui fait ça doit boire.";
+"Play a round of I Have Never. Starting with you, take it in turns to say something you have never done and everyone who has done it must drink" = "Jouez en boucle le jeu «J’ai jamais». Commencez le premier et dites à tout le monde ce que vous n’avez jamais fait (par exemple: Je ne me suis jamais teint). Tous qui ont fait cela doivent boire.";
+"You must think of a word. Each player in the circle must say a word that rhymes with your word. The first player to repeat a word or fail to come up with one takes a drink" = "Dis n’importe quel mot. Chaque personne en boucle doit dire une rime pour ce mot. Le premier qui répète une rime ou ne peut pas le faire doit boire.";
+"You must pick a category. Players in your the circle must say an item in your chosen category. The first player to repeat an item or fail to come up with one takes a drink" = "Choisissez le sujet. Chaque participant en boucle doit dire le mot concernant de ce sujet. Le premier qui répète le mot ou ne peux pas faire ce devoir – boit.";
+"You must make up a rule to put into play until the next Jack is drawn. e.g. every time a person laughs, they must drink" = "Tu dois inventer une règle, tout le monde doit le suivre jusque le moment ils vident les verres. (Par exemple: chacun qui rit, doit boire).";
+"Each player must go around the circle and ask the player next to them a question. If a player repeats a question they must take a drink" = "Des participants poser des questions en boucle. Le premier qui refuse de répondre ou répète une question déjà posée – boit).";
+"Pour some of your drink into the cup" = "Versé une part de votre boisson dans le vase commun.";
+"You must drink the contents of the cup!" = "Tu dois boire tout ce qu’il y a dans le «vase»!";

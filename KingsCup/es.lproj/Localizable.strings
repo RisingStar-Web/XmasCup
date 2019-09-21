@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  KingsCup
+
+  Created by Matt Davenport on 25/10/2012.
+  Copyright (c) 2012 Taptastic Apps. All rights reserved.
+*/
+
+"Game over" = "Juego terminado";
+"There are no cards left, the game is over" = "No hay más cartas, juego terminado";
+"There are no kings left, the game is over" = "No hay más «reyes», juego terminado";
+"New Game" = "Nuevo juego";
+
+"You must challenge one other player to a race. Both players must finish their drink, the winner is whoever finishes first" = "Desafía a uno de los jugadores. Empiecen a beber sus bebidas a la vez. Ganará el que primero se beba su copa.";
+"You must choose a player to take a drink" = "Elija al que beberá.";
+"You must take a drink" = "Bebe hasta el fondo.";
+"The last player to touch the floor takes a drink" = "El último que toque el suelo deberá beber.";
+"All male participants must take a drink" = "Todos los chicos deben beber.";
+"All female participants must drink" = "Todas las chicas deben beber.";
+"All players must point upwards, the last player to do so must drink" = "Todos deben levantar el dedo hacia arriba. El último en hacerlo deberá beber.";
+"Play a round of I Have Never. Starting with you, take it in turns to say something you have never done and everyone who has done it must drink" = "Jueguen por turnos, al juego \"Yo nunca…\". Empieza por sí mismo y cuenta algo que nunca has hecho (ejemplo: yo nunca me he teñido el pelo). Todos quienes lo hicieron, deben beber.";
+"You must think of a word. Each player in the circle must say a word that rhymes with your word. The first player to repeat a word or fail to come up with one takes a drink" = "Di cualquier palabra. Cada jugador por turnos debe decir en ritma algo con tu palabra. El primero quien repita o no pueda cumplir con la tarea – bebe.";
+"You must pick a category. Players in your the circle must say an item in your chosen category. The first player to repeat an item or fail to come up with one takes a drink" = "Inventa un tema. Cada jugador por orden debe decir una palabra relativa a este tema. El primero quien repita o no pueda cumplir con la tarea – bebe.";
+"You must make up a rule to put into play until the next Jack is drawn. e.g. every time a person laughs, they must drink" = "Debes inventar una regla, y todos deben cumplir con ella hasta que no se beban sus vasos. (ejemplo: el que se empiece a reír debe beber).";
+"Each player must go around the circle and ask the player next to them a question. If a player repeats a question they must take a drink" = "Los jugadores, por orden, le hacen preguntas el uno al otro. El primero quien no quiera contestar o repita su respuesta – bebe.";
+"Pour some of your drink into the cup" = "Echar parte de tu bebida en la “Copa” común.";
+"You must drink the contents of the cup!" = "¡Debes beberte el contenido de la “Copa”!";
